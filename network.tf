@@ -1,6 +1,3 @@
-#Provider
-provider "aws" {
-  region = us-east-2
   
 #variable "vpc_id" = {}
 
